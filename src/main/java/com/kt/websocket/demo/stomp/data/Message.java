@@ -1,4 +1,4 @@
-package com.kt.websocket.demo.data;
+package com.kt.websocket.demo.stomp.data;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

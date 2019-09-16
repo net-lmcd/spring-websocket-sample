@@ -1,8 +1,8 @@
-package com.kt.websocket.demo.api;
+package com.kt.websocket.demo.stomp.api;
 
 
-import com.kt.websocket.demo.data.Message;
-import com.kt.websocket.demo.data.OutputMessage;
+import com.kt.websocket.demo.stomp.data.Message;
+import com.kt.websocket.demo.stomp.data.OutputMessage;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.messaging.handler.annotation.DestinationVariable;
 import org.springframework.messaging.handler.annotation.MessageMapping;
